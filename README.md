@@ -1,6 +1,6 @@
 # "Hello World!!" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## @CGarg7002:
+## @GargEngineers7002:
 - Aspiring **Quantitative Researcher & Developer** targeting **US-based roles**.
 - Sharing insights on my projects and experiments in the **world of tech and finance**.
 - Actively seeking **Software Development Internships**.
