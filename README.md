@@ -1,4 +1,4 @@
-# "Hello World!!" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+jjj# "Hello World!!" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## @GargEngineers7002:
 - Aspiring **Quantitative Researcher & Developer** targeting **US-based roles**.
@@ -6,7 +6,8 @@
 - Actively seeking **Software Development Internships**.
 
 ## Dev Stuff <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="30" height="30">:
-- <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" width="18">Coming soon... Stay tuned!<img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" width="18">
+
+- <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" width="18">More coming soon... Stay tuned!<img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" width="18">
  In the meantime, check out: &nbsp;&nbsp;<a href="https://twitter.com/cgarg7002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cgarg7002" height="30" width="40" /></a>
 
 ## Connect with me🙋‍♂️:
@@ -20,7 +21,7 @@
 ## Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30" height="30">:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,postgres,react" /><!--ts,mysql,laravel,html,adonis,postman-->
+    <img src="https://skillicons.dev/icons?i=git,java,c++,postgres,react" /><!--ts,mysql,laravel,html,adonis,postman-->
   </a>
 </p>
 
