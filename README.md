@@ -28,9 +28,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,git,postgres,react,nextjs,prisma,vercel,linux,bash,docker&perline=14" alt="Skills" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black" alt="NeonDB" />
-</p>
 
 ---
 
